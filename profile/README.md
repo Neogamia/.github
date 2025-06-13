@@ -1,12 +1,16 @@
-## Hi there 👋
+# Neogamia
+## Built with
 
-<!--
+[![React][React.js]][React-url]
+[![Express.js][Express]][Express-Url]
+[![Unity][UnityBadge]][UnityUrl]
 
-**Here are some ideas to get you started:**
+[React.js]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&color=black
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[React-url]: https://reactjs.org/
+
+[Express]: https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge
+[Express-Url]: https://expressjs.com/
+
+[UnityBadge]: https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity&color=black
+[UnityUrl]: https://unity3d.com
