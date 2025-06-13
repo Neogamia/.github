@@ -1,4 +1,7 @@
 # Neogamia
+## Socials
+![Twitch Status](https://img.shields.io/twitch/status/ThanonC?style=for-the-badge)
+
 ## Built with
 
 [![React][React.js]][React-url]
